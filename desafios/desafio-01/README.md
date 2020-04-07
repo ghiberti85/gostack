@@ -5,7 +5,7 @@
 </p>
 
 
-## :rocket: Sobre o desafio
+## :rocket: Sobre o Desafio
 
 Nesse desafio, planejei os meus estudos para o bootcamp Gostack da Rocketseat.
 
@@ -14,7 +14,7 @@ Criação de um cronograma que irá se adaptar ao tempo e disponibilidade.
 Definição do horário de estudo e criação de tarefas que estarão atreladas a um calendário, para se manter com foco e sempre alinhado com os objetivos do bootcamp!
 
 
-### Modelo de cronograma
+### Modelo de Cronograma
 
 O modelo utilizado como referência foi fornecido pela Rockseat.
 
@@ -25,12 +25,12 @@ Para começar a utilizar o modelo da Rocketseat, você deve acessar o link dispo
 📄 **[Link para o modelo](https://www.notion.so/Cronograma-de-estudos-e390bc8d2f5743668ec03348a3306070)**
 
 
-### Definindo o cronograma semanal
+### Definindo o Cronograma semanal
 
 Informativo dos horários fixos a se dedicar durante a sua jornada como programador, afinal, a rotina de estudos será o primeiro passo para você conseguir atingir os seus objetivos o mais rápido possível!
 
 
-### Definindo o cronograma diário
+### Definindo o Cronograma diário
 
 Planejar as tarefas diárias para estar preparado para todo o conteúdo semanal.
 
@@ -55,4 +55,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito by @ghiberti85 :wave: [Inspired by Rockseat](https://rocketseat.com.br/)
+Made by @ghiberti85 :wave: [Inspired in Rockseat](https://rocketseat.com.br/)
