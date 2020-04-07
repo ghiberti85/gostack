@@ -1,17 +1,17 @@
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#calendar-entrega">Minha Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
 
 ## :rocket: Sobre o Desafio
 
-Nesse desafio, planejei os meus estudos para o bootcamp Gostack da Rocketseat.
+Nesse desafio, foi planejado os estudos para o bootcamp Gostack da Rocketseat.
 
-Criação de um cronograma que irá se adaptar ao tempo e disponibilidade.
+Criação de um cronograma que se adapta ao tempo e disponibilidade.
 
-Definição do horário de estudo e criação de tarefas que estarão atreladas a um calendário, para se manter com foco e sempre alinhado com os objetivos do bootcamp!
+Definição do horário de estudo e criação de tarefas, atreladas a um calendário, para se manter com foco e sempre alinhado com os objetivos do bootcamp!
 
 
 ### Modelo de Cronograma
@@ -27,16 +27,16 @@ Para começar a utilizar o modelo da Rocketseat, você deve acessar o link dispo
 
 ### Definindo o Cronograma semanal
 
-Informativo dos horários fixos a se dedicar durante a sua jornada como programador, afinal, a rotina de estudos será o primeiro passo para você conseguir atingir os seus objetivos o mais rápido possível!
+Informativo dos horários fixos durante a jornada como programador, afinal, a rotina de estudos será o primeiro passo para conseguir atingir os objetivos o mais rápido possível!
 
 
 ### Definindo o Cronograma diário
 
-Planejar as tarefas diárias para estar preparado para todo o conteúdo semanal.
+Planejar as tarefas diárias e estar preparado para todo o conteúdo semanal.
 
-Seguindo o modelo disponibilizado pela Rocketseat para criar seu próprio calendário de estudos, é possível se manter organizado e focado nos objetivos.
+Seguindo o modelo disponibilizado pela Rocketseat, é possível se manter organizado e focado nos objetivos.
 
-O modelo já vem com a primeira semana preenchida como exemplo, com os conteúdos do Bootcamp Gostack 11.
+O modelo vem com a primeira semana preenchida como exemplo, com os conteúdos do Bootcamp Gostack 11.
 
 Dica: Adicione conteúdo extra como leituras e podcasts, lembre-se de ter pequenas pausas para descansar e assimilar o material estudado. Adicione também tempo reservado para criação de conteúdos, como posts em um blog pessoal ou linkedin.
 
