@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#calendar-entrega">Minha Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -41,7 +41,7 @@ O modelo vem com a primeira semana preenchida como exemplo, com os conteúdos do
 Dica: Adicione conteúdo extra como leituras e podcasts, lembre-se de ter pequenas pausas para descansar e assimilar o material estudado. Adicione também tempo reservado para criação de conteúdos, como posts em um blog pessoal ou linkedin.
 
 
-## :calendar: Minha Entrega
+## :calendar: Entrega
 
 
 📄 **[Link para Calendário de estudos:](https://www.notion.so/55f2acb0cc2c4192862d41e81fb0f6a1?v=fe6ecc59ca6344d0bfb25df351ff497b)**
