@@ -4,6 +4,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+
 ## :rocket: Sobre o desafio
 
 Nesse desafio, planejei os meus estudos para o bootcamp Gostack da Rocketseat.
@@ -11,6 +12,7 @@ Nesse desafio, planejei os meus estudos para o bootcamp Gostack da Rocketseat.
 Criação de um cronograma que irá se adaptar ao tempo e disponibilidade.
 
 Definição do horário de estudo e criação de tarefas que estarão atreladas a um calendário, para se manter com foco e sempre alinhado com os objetivos do bootcamp!
+
 
 ### Modelo de cronograma
 
@@ -22,19 +24,13 @@ Para começar a utilizar o modelo da Rocketseat, você deve acessar o link dispo
 
 📄 **[Link para o modelo](https://www.notion.so/Cronograma-de-estudos-e390bc8d2f5743668ec03348a3306070)**
 
-### Definindo o cronograma semanal
 
-<p align="center">
-  <img width="80%" src="./assets/cronograma-diario.png">
-</p>
+### Definindo o cronograma semanal
 
 Informativo dos horários fixos a se dedicar durante a sua jornada como programador, afinal, a rotina de estudos será o primeiro passo para você conseguir atingir os seus objetivos o mais rápido possível!
 
-### Definindo o cronograma diário
 
-<p align="center">
-  <img width="80%" src="./assets/cronograma-semanal.png">
-</p>
+### Definindo o cronograma diário
 
 Planejar as tarefas diárias para estar preparado para todo o conteúdo semanal.
 
@@ -44,7 +40,8 @@ O modelo já vem com a primeira semana preenchida como exemplo, com os conteúdo
 
 Dica: Adicione conteúdo extra como leituras e podcasts, lembre-se de ter pequenas pausas para descansar e assimilar o material estudado. Adicione também tempo reservado para criação de conteúdos, como posts em um blog pessoal ou linkedin.
 
-## :calendar: Entrega
+
+## :calendar: Minha Entrega
 
 
 📄 **[Link para Calendário de estudos:](https://www.notion.so/55f2acb0cc2c4192862d41e81fb0f6a1?v=fe6ecc59ca6344d0bfb25df351ff497b)**
@@ -58,4 +55,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💜 by Fernando Ghiberti :wave: [Inspired by Rockseat](https://discordapp.com/invite/gCRAFhc)
+Feito by @ghiberti85 :wave: [Inspired by Rockseat](https://rocketseat.com.br/)
