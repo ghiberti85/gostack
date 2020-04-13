@@ -1,8 +1,10 @@
 const express = require ('express');
+const cors = require ('cors');
 const { uuid, isUuid } = require('uuidv4'); //lib para criação do ID - Universal Unique ID 
 
 const app = express();
 
+app.use(cors());
 app.use(express.json()); //Precisa vir ANTES das rotas.
 
 /**
